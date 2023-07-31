@@ -1,0 +1,41 @@
+{
+  "description": {
+    "title": "",
+    "text": ""
+  },
+  "links_1": {
+    "list_pages": true,
+    "title": "Páginas",
+    "list": []
+  },
+  "links_2": {
+    "list_categories": true,
+    "title": "Categorias",
+    "list": []
+  },
+  "contacts": {
+    "title": "Contatos",
+    "phone_wpp": true,
+    "socials": true,
+    "email": true,
+    "address": true
+  },
+  "stamps": [
+    {
+      "src": "/img/uploads/ssl-safe.png",
+      "alt": "Secure connection",
+      "width": 150,
+      "height": 62
+    }
+  ],
+  "payment_methods": {
+    "pix": true,
+    "visa": true,
+    "mastercard": true,
+    "elo": true,
+    "amex": true,
+    "hipercard": true,
+    "boleto": true
+  },
+  "credits": ""
+}
